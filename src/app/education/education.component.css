@@ -1,0 +1,12 @@
+h1{
+  color: aliceblue;
+  text-align: center;
+}
+
+h2{
+  color: azure;
+  text-align: center;
+}
+ mat-card{
+   width: 40%;
+ }
